@@ -3,7 +3,6 @@ DATA DICTIONARY - TIDY_DATA.txt
 ASSUMPTIONS
 ===========
 - Code is written for Windows. The backslashes versus forward slashes for file names is a give away.
-- Code assumes that the test and train data is unzipped to UCIHAR folder.
 - Code also assumes that reshape2 package has been loaded into the global environment. 
 - Code is on GitHub as run_analysis. 
 - Code does not do any error handling.
