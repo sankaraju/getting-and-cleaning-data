@@ -48,3 +48,10 @@ The run_analysis.R script merges data from a number of .txt files and produces a
 - write the data set to tidy_data.txt file. 
 
 For additional details, read the CodeBook.md file.
+
+ACKNOWLEDGEMENTS
+================
+- Read R Cookbook and many issue/challenge resolution on Stackoverflow.com
+- Main areas that required many iterations of trial and error were functions related to merge, and dcast.
+- Lecture videos and resources included were very helpful.
+
